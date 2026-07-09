@@ -1,2 +1,2 @@
-a = "harsh"
-print(a)
+d = "harsh"
+print(d)
